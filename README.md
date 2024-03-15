@@ -36,7 +36,7 @@ Navigate to the project directory and install the dependencies:
 ```bash
 
 cd print-converter
-
+```
 
 Usage
 To use Print Converter, run the main script and follow the on-screen instructions:
