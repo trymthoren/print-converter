@@ -1,5 +1,8 @@
 # Print Converter
 
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Print Converter is a tool designed to make the conversion of print formats quick and easy. It supports a variety of print-related transformations, ensuring compatibility across different systems and formats.
 
 ## Features
