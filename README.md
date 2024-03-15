@@ -36,14 +36,13 @@ Navigate to the project directory and install the dependencies:
 ```bash
 
 cd print-converter
-pip install -r requirements.txt
-```
+
 
 Usage
 To use Print Converter, run the main script and follow the on-screen instructions:
 
 ```bash
-python print_converter.py
+python main.py
 ```
 Contributing
 Contributions to Print Converter are welcome! If you have a suggestion that would improve the project, please fork the repository and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -52,3 +51,22 @@ Don't forget to give the project a star! Thanks again!
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+Buy Me a Coffee
+If you find this tool helpful and would like to support my work, consider buying me a coffee with cryptocurrency:
+
+• BTC: bc1q6sk70x0weejgujpe588d3wwcrravym4yxl77ne
+
+• ETH: 0x0f89ff6C031b37D22274Ae3F5832647dA886fb58
+
+• BNB: 0x0f89ff6C031b37D22274Ae3F5832647dA886fb58
+
+• SOL: GarNENoHZ3VF3wGqZKLgeZvQBFrcsVceEoVXSemaFg8j
+
+• LTC: ltc1qdl35rrxl5dwpu6gd0pzgyn4gsqve4nj5e9nry6
+
+• XMR: 421dTYYkA9CGaudEG6UY3pbfozcoMRntXPKjgTzNqtnYK6wKLVLJ7TLXXVCB5P6v991Ev9FknJQXCdTUDBd2tpPKD3dGmL4
+
+
+Your support is greatly appreciated!
