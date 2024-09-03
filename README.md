@@ -44,6 +44,10 @@ To use Print Converter, run the main script and follow the on-screen instruction
 ```bash
 python main.py
 ```
+or
+```bash
+python3 main.py
+```
 Contributing
 Contributions to Print Converter are welcome! If you have a suggestion that would improve the project, please fork the repository and create a pull request. You can also simply open an issue with the tag "enhancement".
 
